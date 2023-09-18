@@ -62,7 +62,6 @@ hr{
     margin: 0;
 }
 .content p{
-    font-weight: 100;
     font-size: 19px;
     margin-bottom: 0;
 }
@@ -170,5 +169,4 @@ hr{
     .navbar a:hover{
         color: #e8e8e8;
     }
-    
 }
